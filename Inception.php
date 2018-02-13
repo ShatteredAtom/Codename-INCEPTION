@@ -1,7 +1,7 @@
 <?php
 script = run = JAVASCRIPT>
 <script = run = PHP>
-<type = 1(var = Simulation:CodeName: INCEPTION>
+<type = 1(var = Simulation:CodeName: INCEPTION)>
 public function onDeath(run life count = 0 < x < 125);
 	$object = new = $lifecount(f(x)= 0 < x < 125);
 	…..run $object($lifecount string);
