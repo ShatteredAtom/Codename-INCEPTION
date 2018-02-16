@@ -1,3 +1,4 @@
+<!DOCTYPE = python>
 from random import randint
  
 class Character:
